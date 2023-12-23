@@ -1,0 +1,368 @@
+.logoimg {
+    width: 200px;
+    height: 39px;
+  }
+  .nav {
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #e0e6ea;
+    padding-bottom: 25px;
+    padding-top: 15px;
+  }
+  .navbarlistings {
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .navbarlist {
+      font-family: 'Antonio', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: -0.009999999776482582px;
+    text-align: center;
+  }
+  
+  #accountlist {
+    width: 91px;
+    height: 40px;
+    left: 385px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+  }
+  main {
+    width: 892px;
+    height: 845px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 5px 15px 0px #0000000d;
+  
+    box-shadow: 0px 15px 35px 0px #2b404e18;
+  }
+  .div1 {
+    box-shadow: 0px 5px 15px 0px #0000000d;
+    box-shadow: 0px 15px 35px 0px #2b404e18;
+    width: 624px;
+    height: 795px;
+    padding-left: 40px;
+    padding-top: 20px;
+  }
+  .div2 {
+    width: 312px;
+    height: 795px;
+    top: 186px;
+    left: 842px;
+    background-color: #1179bf;
+    color: white;
+    padding-left: 20px;
+  }
+  .checkout {
+    font-family: 'Antonio', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding-bottom: 10px;
+  }
+  .yourbasicinfo {
+    font-family: 'Antonio', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: -0.1599999964237213px;
+    text-align: left;
+  }
+  .yourbasicinfocontainer {
+    display: flex;
+    gap: 10px;
+    padding-top: 0px;
+    align-items: center;
+  }
+  .one {
+    color: #1179bf;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #1179bf;
+  }
+  .firstandlastname {
+    display: flex;
+    gap: 20px;
+  }
+  .firstname {
+    display: block;
+  }
+  .firstnameinput {
+    padding-top: 10px;
+    background-color: #edeff2;
+    width: 227px;
+    height: 36px;
+    outline: none;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+  }
+  .emailinput {
+    padding-top: 10px;
+    background-color: #edeff2;
+    width: 370px;
+    height: 36px;
+    outline: none;
+    border: none;
+    padding-left: 10px;
+    font-family: 'Antonio', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    border-radius: 5px;
+  }
+  .emailcontainer {
+    padding-bottom: 40px;
+    border-bottom: 2px solid #f5f7fa;
+  }
+  .cardinput {
+    width: 483px;
+    height: 36px;
+    border-radius: 5px;
+    padding-top: 10px;
+    background-color: #edeff2;
+    outline: none;
+    border: none;
+    padding-left: 10px;
+    font-family: 'Antonio', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .horizontal {
+    color: white;
+    background-color: #e0e6ea;
+  }
+  #basicinfo {
+    padding-bottom: 40px;
+    border-bottom: 2px solid #f5f7fa;
+  }
+  .bottom {
+    padding-top: 20px;
+  }
+  .button {
+    background-color: #038e7d;
+    width: 483px;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+  }
+  .buttontext {
+    font-family: 'Antonio', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: -0.39600005745887756px;
+    text-align: center;
+    color: white;
+  }
+  .questionmark {
+    color: #1179bf;
+    font-weight: 600;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #1179bf;
+  }
+  
+  .footer {
+    display: flex;
+    gap: 70px;
+    align-items: center;
+  }
+  .footertext {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: -0.009999999776482582px;
+    text-align: left;
+    color: #646e7a;
+  }
+  .help {
+    font-family: 'Antonio', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: -0.009999999776482582px;
+    text-align: left;
+    color: #1d2c3c;
+  }
+  .footerbtn {
+    width: 170px;
+    height: 50px;
+    background: #b8bdc3;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+  }
+  .stripe {
+    font-weight: 800;
+    font-size: 20px;
+  }
+  .footerbtncontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .freelancer {
+    font-family: 'Antonio', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: -0.009999999776482582px;
+    text-align: left;
+  }
+  .dollar {
+    font-family: 'Antonio', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: -0.014999999664723873px;
+    text-align: left;
+    position: absolute;
+    top: 50px;
+  }
+  
+  .ninetynine {
+    font-family: 'Antonio', sans-serif;
+    font-size: 60px;
+    font-weight: 300;
+    line-height: 72px;
+    letter-spacing: -0.014999999664723873px;
+    text-align: left;
+    padding-left: 15px;
+  }
+  
+  .yearr {
+    font-family: 'Antonio', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: -0.014999999664723873px;
+    text-align: left;
+  }
+  .top {
+    position: relative;
+  }
+  .renewal {
+    width: 150px;
+    font-family: 'Antonio', sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.007999998517334461px;
+    text-align: left;
+  }
+  .middlelisting {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 30px;
+  }
+  .check {
+    height: 20px;
+    width: 20px;
+  }
+  .middle {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    border-bottom: 3px solid #ffffff;
+    margin-right: 20px;
+  }
+  .twenty {
+    width: 200px;
+    font-family: 'Antonio', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: -0.007999998517334461px;
+    text-align: left;
+  }
+  .need20client {
+    width: 200px;
+    font-family: 'Antonio', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.007999998517334461px;
+    text-align: left;
+  }
+  .ftp {
+    font-size: 18px;
+  }
+  .footer2 {
+    width: 227px;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .need20clientcontainer {
+    padding-top: 40px;
+  }
+  .bitmap {
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+  }
+  .footerimgcont {
+    display: flex;
+    gap: 20px;
+  }
+  .kirk {
+    font-weight: 600;
+    font-family: 'Antonio', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: -0.007999999448657036px;
+    text-align: left;
+  }
+  .switch {
+    text-decoration-line: underline;
+    text-decoration-color: #b9f5ff;
+    text-decoration-thickness: 1.5px;
+  }
+  
+  .wppusher{
+      font-weight: 700;
+      font-family: 'Antonio', sans-serif;
+  }
